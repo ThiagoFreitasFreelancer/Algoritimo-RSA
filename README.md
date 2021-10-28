@@ -1,3 +1,3 @@
 # AlgoritimoRSA
 
-- Intale python 
+- Instale python 
